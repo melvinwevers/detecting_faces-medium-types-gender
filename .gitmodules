@@ -1,0 +1,6 @@
+[submodule "FaceDetection-DSFD"]
+	path = FaceDetection-DSFD
+	url = https://github.com/melvinwevers/FaceDetection-DSFD.git
+[submodule "Pytorch_Retinaface"]
+	path = Pytorch_Retinaface
+	url = https://github.com/melvinwevers/Pytorch_Retinaface.git
